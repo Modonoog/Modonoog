@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Modonoog
 - 👀 I’m interested in Minecraft moding
 - 🌱 I’m currently learning how to make miencraft client
-- 💞️ I’m looking to collaborate on minecraft
+- 💞️ I’m looking to collaborate on minecraft client
 - 📫 How to reach me: by sending a email to dreamy2137@gmail ps.Polish people will understand
 
 <!---
